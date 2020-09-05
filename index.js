@@ -1,4 +1,4 @@
-const BOT_TOKEN = '1035415533:AAHgwUaKnXA4lTYZxhjJ-FEsn8z7Z8mFmL0'
+const BOT_TOKEN = '12345example'
 
 const Telegraf = require('telegraf')
 
